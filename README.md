@@ -49,10 +49,3 @@ Key preprocessing steps in Stata:
 6. Generate derived variables: `Change_ArrivalIDPs`, lagged variables, and interaction terms  
 
 ---
-
-## 📈 Analysis Workflow
-
-### Panel Setup
-
-```stata
-xtset SettlementID Round
