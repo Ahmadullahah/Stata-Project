@@ -29,7 +29,7 @@ Analysis uses CBNA data provided by the
 
 **Dataset Features:**  
 
-- 6–7 rounds of data collection  
+- 6 rounds of data collection  
 - Multi-dimensional indicators: **IDP arrivals, aid received, health & education facilities, ethnic composition**  
 - Panel structure at the settlement level  
 
