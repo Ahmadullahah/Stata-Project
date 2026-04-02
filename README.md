@@ -1,4 +1,4 @@
-# ⭐ CBNA IDP Data Analysis – Stata Workflow
+# CBNA IDP Data Analysis – Stata Workflow
 
 ![Stata](https://img.shields.io/badge/language-Stata-blue?style=flat-square)  
 ![Data Analysis](https://img.shields.io/badge/type-data%20analysis-green?style=flat-square)  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates a **complete Stata analysis workflow** for **Community-Based Needs Assessment (CBNA) data**, focusing on **IDP arrivals, humanitarian aid delivery, and community vulnerabilities**.
 
@@ -22,7 +22,7 @@ This project demonstrates a **complete Stata analysis workflow** for **Community
 
 ---
 
-## 📊 Data Source
+## Data Source
 
 Analysis uses CBNA data provided by the  
 [International Organization for Migration (IOM)](https://www.iom.int/) via the [Displacement Tracking Matrix (DTM)](https://dtm.iom.int/).  
@@ -33,11 +33,11 @@ Analysis uses CBNA data provided by the
 - Multi-dimensional indicators: **IDP arrivals, aid received, health & education facilities, ethnic composition**  
 - Panel structure at the settlement level  
 
-🔗 [Access the CBNA Dataset](https://dtm.iom.int/data-product-series/community-based-needs-assessment-cbna)
+ [Access the CBNA Dataset](https://dtm.iom.int/data-product-series/community-based-needs-assessment-cbna)
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 Key preprocessing steps in Stata:
 
